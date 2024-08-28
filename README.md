@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImmortalJeevi
+- 👋 Hi, I’m Chiranjeevi
 - 👀 I’m interested in Web Development and Networking
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on Web Development
